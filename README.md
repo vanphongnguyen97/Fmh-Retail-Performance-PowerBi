@@ -25,10 +25,10 @@ An interactive **two-page Power BI dashboard** analysing **10,000 retail transac
 
 ```
 .
-├── FMH_Dashboard.pbix          # Power BI report file
+├── FMH_Dashboard.pbix          
 ├── data/
-│   └── FMH_Dataset.csv         # Source dataset
-├── dashboard_powerbi.pdf       # PDF export of the dashboard
+│   └── FMH_Dataset.csv         
+├── dashboard_powerbi.pdf      
 └── README.md
 ```
 
